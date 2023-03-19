@@ -1,1 +1,1 @@
-# yayBooModel.github.io
+# yayBooModel
